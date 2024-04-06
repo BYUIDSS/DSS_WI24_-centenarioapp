@@ -1,11 +1,33 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
+title: "Centenario Rent a Car APP"
+format: dashboard
 # use quarto markdown to 
 ---
 
-# Title 1 Header
-## Title 2 Header
+## Reporte de traslados
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+```{python}
+#| context: setup
+import seaborn as sns
+import pandas as pd
+from shiny import render, reactive, ui
 
+centenario = pd.read_csv("raw_data/centenario_dataset.csv")
+```
+
+# {.sidebar}
+
+```{python}
+def ui_func():
+    return ui.page_fluid(
+        ui.input_checkbox_group("car_type", "Car Type:", 
+                                choices=list(centenario["Type"].value_counts().index)),
+        ui.output_text_verbatim("selected_car_type")
+    )
+def server(input, output, session):
+    @output
+    @render.text
+    def selected_car_type():
+        return f"Selected Car Types: {input.car_type()}"
+#
+```

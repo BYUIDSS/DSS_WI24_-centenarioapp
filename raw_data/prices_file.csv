@@ -1,0 +1,161 @@
+,Type,Year,Destination,Price
+0,Compact,2019,Local,230
+1,Large,2019,Local,230
+2,SUV,2019,Local,330
+3,Passanger,2019,Local,330
+4,Compact,2020,Local,260
+5,Large,2020,Local,260
+6,SUV,2020,Local,360
+7,Passanger,2020,Local,360
+8,Compact,2022,Local,300
+9,Large,2022,Local,350
+10,SUV,2022,Local,400
+11,Passanger,2022,Local,400
+12,Compact,2022,Local,300
+13,Large,2022,Local,350
+14,SUV,2022,Local,400
+15,Passanger,2022,Local,400
+16,Compact,2023,Local,350
+17,Large,2023,Local,400
+18,SUV,2023,Local,450
+19,Passanger,2023,Local,450
+20,Compact,2019,Calexico,500
+21,Large,2019,Calexico,600
+22,SUV,2019,Calexico,700
+23,Passanger,2019,Calexico,700
+24,Compact,2020,Calexico,550
+25,Large,2020,Calexico,650
+26,SUV,2020,Calexico,750
+27,Passanger,2020,Calexico,750
+28,Compact,2022,Calexico,600
+29,Large,2022,Calexico,700
+30,SUV,2022,Calexico,800
+31,Passanger,2022,Calexico,800
+32,Compact,2022,Calexico,600
+33,Large,2022,Calexico,700
+34,SUV,2022,Calexico,800
+35,Passanger,2022,Calexico,800
+36,Compact,2023,Calexico,650
+37,Large,2023,Calexico,750
+38,SUV,2023,Calexico,850
+39,Passanger,2023,Calexico,850
+40,Compact,2019,EL CENTRO-MXL,600
+41,Large,2019,EL CENTRO-MXL,700
+42,SUV,2019,EL CENTRO-MXL,800
+43,Passanger,2019,EL CENTRO-MXL,800
+44,Compact,2020,EL CENTRO-MXL,650
+45,Large,2020,EL CENTRO-MXL,750
+46,SUV,2020,EL CENTRO-MXL,850
+47,Passanger,2020,EL CENTRO-MXL,850
+48,Compact,2022,EL CENTRO-MXL,700
+49,Large,2022,EL CENTRO-MXL,800
+50,SUV,2022,EL CENTRO-MXL,900
+51,Passanger,2022,EL CENTRO-MXL,900
+52,Compact,2022,EL CENTRO-MXL,700
+53,Large,2022,EL CENTRO-MXL,800
+54,SUV,2022,EL CENTRO-MXL,900
+55,Passanger,2022,EL CENTRO-MXL,900
+56,Compact,2023,EL CENTRO-MXL,750
+57,Large,2023,EL CENTRO-MXL,850
+58,SUV,2023,EL CENTRO-MXL,950
+59,Passanger,2023,EL CENTRO-MXL,950
+60,Compact,2019,Guaymas,8000
+61,Large,2019,Guaymas,8000
+62,SUV,2019,Guaymas,10000
+63,Passanger,2019,Guaymas,10000
+64,Compact,2020,Guaymas,9000
+65,Large,2020,Guaymas,9000
+66,SUV,2020,Guaymas,11000
+67,Passanger,2020,Guaymas,11000
+68,Compact,2022,Guaymas,10000
+69,Large,2022,Guaymas,10000
+70,SUV,2022,Guaymas,12000
+71,Passanger,2022,Guaymas,12000
+72,Compact,2022,Guaymas,10000
+73,Large,2022,Guaymas,10000
+74,SUV,2022,Guaymas,12000
+75,Passanger,2022,Guaymas,12000
+76,Compact,2023,Guaymas,10000
+77,Large,2023,Guaymas,10000
+78,SUV,2023,Guaymas,12000
+79,Passanger,2023,Guaymas,12000
+80,Compact,2019,Tijuana,2000
+81,Large,2019,Tijuana,2000
+82,SUV,2019,Tijuana,2300
+83,Passanger,2019,Tijuana,2300
+84,Compact,2020,Tijuana,2150
+85,Large,2020,Tijuana,2150
+86,SUV,2020,Tijuana,2550
+87,Passanger,2020,Tijuana,2550
+88,Compact,2022,Tijuana,2300
+89,Large,2022,Tijuana,2300
+90,SUV,2022,Tijuana,2700
+91,Passanger,2022,Tijuana,2700
+92,Compact,2022,Tijuana,2300
+93,Large,2022,Tijuana,2300
+94,SUV,2022,Tijuana,2700
+95,Passanger,2022,Tijuana,2700
+96,Compact,2023,Tijuana,2400
+97,Large,2023,Tijuana,2400
+98,SUV,2023,Tijuana,2800
+99,Passanger,2023,Tijuana,2800
+100,Compact,2019,Yuma,1400
+101,Large,2019,Yuma,1600
+102,SUV,2019,Yuma,2100
+103,Passanger,2019,Yuma,2300
+104,Compact,2020,Yuma,1550
+105,Large,2020,Yuma,1750
+106,SUV,2020,Yuma,2200
+107,Passanger,2020,Yuma,2400
+108,Compact,2022,Yuma,1700
+109,Large,2022,Yuma,1900
+110,SUV,2022,Yuma,2200
+111,Passanger,2022,Yuma,2400
+112,Compact,2022,Yuma,1700
+113,Large,2022,Yuma,1900
+114,SUV,2022,Yuma,2200
+115,Passanger,2022,Yuma,2400
+116,Compact,2023,Yuma,1850
+117,Large,2023,Yuma,1900
+118,SUV,2023,Yuma,2300
+119,Passanger,2023,Yuma,2400
+120,Compact,2019,San Diego,2300
+121,Large,2019,San Diego,2300
+122,SUV,2019,San Diego,2600
+123,Passanger,2019,San Diego,2600
+124,Compact,2020,San Diego,2450
+125,Large,2020,San Diego,2450
+126,SUV,2020,San Diego,2850
+127,Passanger,2020,San Diego,2850
+128,Compact,2022,San Diego,2600
+129,Large,2022,San Diego,2600
+130,SUV,2022,San Diego,3000
+131,Passanger,2022,San Diego,3000
+132,Compact,2022,San Diego,2600
+133,Large,2022,San Diego,2600
+134,SUV,2022,San Diego,3000
+135,Passanger,2022,San Diego,3000
+136,Compact,2023,San Diego,3100
+137,Large,2023,San Diego,3100
+138,SUV,2023,San Diego,3100
+139,Passanger,2023,San Diego,3100
+140,Compact,2019,Los Angeles,3100
+141,Large,2019,Los Angeles,3100
+142,SUV,2019,Los Angeles,4000
+143,Passanger,2019,Los Angeles,4000
+144,Compact,2020,Los Angeles,3300
+145,Large,2020,Los Angeles,3300
+146,SUV,2020,Los Angeles,4100
+147,Passanger,2020,Los Angeles,4100
+148,Compact,2022,Los Angeles,3500
+149,Large,2022,Los Angeles,3500
+150,SUV,2022,Los Angeles,4300
+151,Passanger,2022,Los Angeles,4300
+152,Compact,2022,Los Angeles,3500
+153,Large,2022,Los Angeles,3500
+154,SUV,2022,Los Angeles,4300
+155,Passanger,2022,Los Angeles,4300
+156,Compact,2023,Los Angeles,3600
+157,Large,2023,Los Angeles,3600
+158,SUV,2023,Los Angeles,4400
+159,Passanger,2023,Los Angeles,4400
